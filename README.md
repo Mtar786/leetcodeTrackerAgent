@@ -39,6 +39,7 @@ features (e.g. skip Google Docs or Anki updates) depending on your needs.
 
 ## 🧰 Prerequisites
 
+
 This project requires **Python 3.8+**. You’ll need the following external
 services set up:
 
