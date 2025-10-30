@@ -11,7 +11,6 @@
 
 # LeetCode Tracker Agent
 
-
 The **LeetCode Tracker Agent** automatically records problems you've solved on
 [LeetCode](https://leetcode.com/), generates concise summaries, and appends
 them to a Google Doc while also adding flashcards to an Anki deck. It is a
@@ -21,6 +20,7 @@ AnkiConnect. The agent is modular, so you can enable or disable individual
 features (e.g. skip Google Docs or Anki updates) depending on your needs.
 
 ## ✨ Features
+
 
 - **Recent problem tracking** – Queries LeetCode to find your most recent
   accepted submissions and extracts unique problems.
