@@ -13,7 +13,6 @@
 
 
 
-
 The **LeetCode Tracker Agent** automatically records problems you've solved on
 [LeetCode](https://leetcode.com/), generates concise summaries, and appends
 them to a Google Doc while also adding flashcards to an Anki deck. It is a
